@@ -1,4 +1,4 @@
-echo "# kirinomoto" >> README.md
+echo "# kkirinomoto" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
